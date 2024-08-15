@@ -12,4 +12,4 @@
 - sha256sum files/* sẽ liệt kê các file trong thư mục files. 
 - grep sẽ so sánh.
 - kết quả: files/8eee7195
-- sử dụng: ./decrypt.sh files/8eee7195 để giải mã
+- sử dụng: ./decrypt.sh files/8eee7195 để giải mã.
